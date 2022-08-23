@@ -1,0 +1,26 @@
+.home{
+float: right;
+}
+.details{
+
+    float: left;
+}    
+
+fieldset {
+    overflow: hidden
+  }
+
+  .some-class {
+    float: left;
+    clear: none;
+  }
+
+  label {
+    float: left;
+    clear: none;
+    display: block;
+    padding: 0px 1em 0px 8px;
+  }
+body {
+  background-color: #8085;
+}
